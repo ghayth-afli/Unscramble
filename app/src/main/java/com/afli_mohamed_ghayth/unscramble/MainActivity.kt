@@ -1,4 +1,4 @@
-package com.Afli_Mohamed_Ghayth.unscramble
+package com.afli_mohamed_ghayth.unscramble
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

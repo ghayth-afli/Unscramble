@@ -1,4 +1,4 @@
-package com.Afli_Mohamed_Ghayth.unscramble.ui.game
+package com.afli_mohamed_ghayth.unscramble.ui.game
 
 const val MAX_NO_OF_WORDS = 10
 const val SCORE_INCREASE = 20

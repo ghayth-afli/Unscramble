@@ -21,7 +21,7 @@
     <data>
         <variable
             name="gameViewModel"
-            type="com.Afli_Mohamed_Ghayth.unscramble.ui.game.GameViewModel" />
+            type="com.afli_mohamed_ghayth.unscramble.ui.game.GameViewModel" />
         <variable
             name="maxNoOfWords"
             type="int" />

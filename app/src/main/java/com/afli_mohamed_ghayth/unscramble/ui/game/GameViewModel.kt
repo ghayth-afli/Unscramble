@@ -1,4 +1,4 @@
-package com.Afli_Mohamed_Ghayth.unscramble.ui.game
+package com.afli_mohamed_ghayth.unscramble.ui.game
 
 import android.text.Spannable
 import android.text.SpannableString

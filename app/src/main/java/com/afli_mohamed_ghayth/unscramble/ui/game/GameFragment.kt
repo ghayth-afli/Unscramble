@@ -1,4 +1,4 @@
-package com.Afli_Mohamed_Ghayth.unscramble.ui.game;
+package com.afli_mohamed_ghayth.unscramble.ui.game;
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
@@ -6,8 +6,8 @@ import android.view.ViewGroup
 import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
-import com.Afli_Mohamed_Ghayth.unscramble.R
-import com.Afli_Mohamed_Ghayth.unscramble.databinding.FragmentGameBinding
+import com.afli_mohamed_ghayth.unscramble.R
+import com.afli_mohamed_ghayth.unscramble.databinding.FragmentGameBinding
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 
 /**
